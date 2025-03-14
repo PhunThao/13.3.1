@@ -41,6 +41,7 @@ let distractionLinks = [
   "https://www.youtube.com/watch?v=fKrTCGGEiWY&list=RDfKrTCGGEiWY&start_radio=1",
   "https://www.youtube.com/watch?v=ph1xFfBNp3Q",
   "https://www.youtube.com/watch?v=CB1Qygf8aes",
+  "https://www.youtube.com/watch?v=NB5Vhip9SOc&list=PLJp6WIMKaI7zrpqYofh8CskCzxw90s2XB&index=3",
   "https://www.youtube.com/watch?v=EBCKDJG8EpI",
   "https://thanhlyhangcu.com/",
   "https://vnexpress.net/dau-dau-mung-cuoi-500-000-dong-thi-it-mot-trieu-lai-nhieu-4812764.html", 
