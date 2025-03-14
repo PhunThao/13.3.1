@@ -7,7 +7,7 @@ let distractionLinks = [
   "https://luatvietnam.vn/tin-phap-luat/luat-nghia-vu-quan-su-230-17913-article.html",
   "https://tamanhhospital.vn/cac-bien-phap-tranh-thai-an-toan/",
   "https://fulbright.edu.vn/vi/tuyen-sinh/hoc-bong/?utm_source=GGSearch&utm_medium=SEM&utm_campaign=29SpringMarCom&utm_term=BrandedKWs&gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0Kf0_lMYE2Q9zyoZGgKxbz6yKv_iDv0hMJNjh-PeKbTAmC84HM8LZyEaAjTcEALw_wcB/",
-  "https://www.moma.org/research/conservation/matters-in-media-art"
+  "https://www.moma.org/research/conservation/matters-in-media-art", 
   "https://spcollege.libguides.com/c.php?g=254383&p=1695452",
   "https://vnexpress.net/danh-chong-toi-tap-vi-anh-dam-noi-song-khong-hanh-phuc-4799035.html",
   "https://www.jstor.org/stable/26965514",
