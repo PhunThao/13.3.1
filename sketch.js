@@ -34,6 +34,15 @@ let distractionLinks = [
   "http://socisdg.com/en/blog/what-would-happen-if-there-would-be-no-poverty-in-the-world/",
   "https://www.dafont.com/aisling.font?text=SUPER",
   "https://procreate.brushes.work/my-main-illustration-brushes/",
+  "https://nettruyenvie.com/truyen-tranh/no-home/chuong-211",
+  "https://tarot.com.vn/",
+  "https://lyrics.vn/lyrics/18686-heaven.html",
+  "https://youtu.be/ApbanRpMAwg?si=aI-3DuWI0PCag0eA",
+  "https://www.youtube.com/watch?v=fKrTCGGEiWY&list=RDfKrTCGGEiWY&start_radio=1",
+  "https://www.youtube.com/watch?v=ph1xFfBNp3Q",
+  "https://www.youtube.com/watch?v=CB1Qygf8aes",
+  "https://www.youtube.com/watch?v=EBCKDJG8EpI",
+  "https://thanhlyhangcu.com/",
   "https://vnexpress.net/dau-dau-mung-cuoi-500-000-dong-thi-it-mot-trieu-lai-nhieu-4812764.html", 
   //input the distract link that we want it to appear, to simulate how distractions work on certain websites.
 ];
