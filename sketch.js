@@ -3,6 +3,18 @@ let balloons = []; // Create balloons
 let distractionChance = 0.4; // %change distract- pop up links will appear 
 let distractionLinks = [
   "https://archive.org/details/the-pillow-book/page/n4/mode/1up",
+  "http://gitmoma.org/artists/7901-an-my-le",
+  "https://luatvietnam.vn/tin-phap-luat/luat-nghia-vu-quan-su-230-17913-article.html",
+  "https://tamanhhospital.vn/cac-bien-phap-tranh-thai-an-toan/",
+  "https://fulbright.edu.vn/vi/tuyen-sinh/hoc-bong/?utm_source=GGSearch&utm_medium=SEM&utm_campaign=29SpringMarCom&utm_term=BrandedKWs&gad_source=1&gclid=Cj0KCQjwhMq-BhCFARIsAGvo0Kf0_lMYE2Q9zyoZGgKxbz6yKv_iDv0hMJNjh-PeKbTAmC84HM8LZyEaAjTcEALw_wcB/",
+  "https://www.moma.org/research/conservation/matters-in-media-art"
+  "https://spcollege.libguides.com/c.php?g=254383&p=1695452",
+  "https://vnexpress.net/danh-chong-toi-tap-vi-anh-dam-noi-song-khong-hanh-phuc-4799035.html",
+  "https://www.jstor.org/stable/26965514",
+  "https://www.google.com/search?sca_esv=8ca7c5c78d795a81&sxsrf=AHTn8zq-TlKXKXppno1MpIL3G2vcUHCVCQ:1741920284180&q=Orange+and+Yellow&stick=H4sIAAAAAAAAAONgFuLQz9U3qEwxKVHi0U_XNzQ0qkyrMk1J0lLKTrbSL8ssLk3MiU8sKkFiZhaXWJXnF2UXL2IV9C9KzEtPVUjMS1GITM3JyS_fwcoIAJHQ6i9VAAAA&sa=X&sqi=2&ved=2ahUKEwj82o_exoiMAxVjxDgGHTz5AMoQgOQBegQIPxAM&biw=1422&bih=612&dpr=1.35",
+  "https://www.youtube.com/watch?v=so8sB25IL4o",
+  "https://quantrimang.com/cuoc-song/truyen-ma-ngan-185417",
+  "https://cellphones.com.vn/sforum/phim-ngon-tinh-tong-tai",
   "https://www.crescentmall.com.vn/tenants/ovs",
   "https://s3.amazonaws.com/giin-web-assets/iris/assets/files/guidance/2019-12-12_IRIS-HT-Data%20Collection_R5.pdf",
   "https://genius.com/Lola-young-messy-lyrics",
@@ -24,7 +36,7 @@ let distractionLinks = [
   "https://en.m.wikipedia.org/wiki/Rashid_(name)",
   "https://beyblade.fandom.com/wiki/Hell_Kerbecs_BD145EWD",
   "https://beyblade.fandom.com/wiki/Cloud_Lyra_85SF",
-  "https://en.m.wikipedia.org/wiki/Discman",
+  "https://en.m.wikipedia.org/wiki/Discman", 
   "https://cheapeststore.ru/product/267011589476",
   "https://nhathuocminhchau.com/mounjaro-25mg05ml-lilly-4-but",
   "https://javhiv.com",
