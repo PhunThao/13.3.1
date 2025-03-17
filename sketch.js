@@ -60,7 +60,7 @@ let distractionLinks = [
   //input the distract link that we want it to appear, to simulate how distractions work on certain websites.
 ];
 
-function setup() { //runs once at the beginning of the program
+function setup() { 
     createCanvas(windowWidth, windowHeight); // Fullscreen canvas, fills the entire screen include browser window,...
     background(0); // Set background to black
 
@@ -85,7 +85,7 @@ function draw() {  //keeps running over and over,  runs at 60 FPS, it allows smo
 }
 
 function mousePressed() { //automatically called when the user clicks the mouse 
-  for (let i = balloons.length - 1; i >= 0; i--) { // Check balloons from Last to First. Ensuring All Balloons Are Checked Properly, make sure no balloon skipped) 
+  for (let i = balloons.length - 1; i >= 0; i--) { // Check balloons from last to first. Ensuring all balloons are checked properly, make sure no balloon skipped) 
     if (balloons[i].isClicked(mouseX, mouseY)) { //Checking if a balloon was clicked
       if (random() < distractionChance) {
         let selectedLinks = [];
@@ -145,7 +145,7 @@ class Balloon { // defines the properties of each balloon.
     ellipse(this.x - this.size / 4, this.y - this.size / 4, this.size / 4, this.size / 4); //smaller ellipse offset slightly from the center,creates the effect of light reflecting on the balloon.
   }
 
-  isClicked(px, py) { //Calculating Distance from Click to Balloon Center
+  isClicked(px, py) { //Calculating distance from click to balloon center
     let d = dist(px, py, this.x, this.y); // Calculate distance from click to balloon
     return d < this.size / 2; // Check if inside balloon, balloon’s radius is this.size / 2.
   }
