@@ -1,3 +1,9 @@
+/*
+//Tuoi-hoc-tro-
+// Huỳnh Nguyễn Gia Khang, 210218, khang.huynh.210218@student.fulbright.edu.vn
+// Nguyễn Thị Phương Thảo, 210268, thao.nguyen.210268@student.fulbright.edu.vn 
+*/ 
+
 //Defining variables
 let balloons = []; // Create balloons
 let distractionChance = 0.4; // %change distract- pop up links will appear 
